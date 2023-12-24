@@ -3,7 +3,6 @@
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
 
-/Assets/Plugins/Sirenix/
 /Assets/Plugins/
 /[Ll]ibrary/
 /[Tt]emp/
