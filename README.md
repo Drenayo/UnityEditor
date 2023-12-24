@@ -4,8 +4,8 @@
  
 ### 动画预览工具
 依赖Odin，Editor下预览角色动画，可多个角色同时控制，异步播放
-![image](https://github.com/Drenayo/UnityToDo/blob/main/%E4%BD%BF%E7%94%A8%E6%88%AA%E5%9B%BE1.jpg)
-![image](https://github.com/Drenayo/UnityToDo/blob/main/%E4%BD%BF%E7%94%A8%E6%88%AA%E5%9B%BE1.jpg)
+![image](https://github.com/Drenayo/UnityEditor/blob/main/README_IMG/%E5%8A%A8%E7%94%BB%E9%A2%84%E8%A7%88%E5%B7%A5%E5%85%B71.png)
+![image](https://github.com/Drenayo/UnityEditor/blob/main/README_IMG/%E5%8A%A8%E7%94%BB%E9%A2%84%E8%A7%88%E5%B7%A5%E5%85%B72.png)
 
 
 ### 未来计划更新：
